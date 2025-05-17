@@ -1,2 +1,2 @@
 # Khuzaima2020-House-Prediction-Model
-The project report delves into the objectives, workflow, and results achieved, emphasizing the critical role and impact of each phase in achieving accurate predictions.
+Discover Home Harbor, a powerful house price prediction system. This project involves key phases such as Exploratory Data Analysis (EDA), detailed data preprocessing, and predictive modeling using the K-Nearest Neighbors (KNN) algorithm. The report outlines the goals, process, and results, highlighting how each step contributes to accurate predictions.
